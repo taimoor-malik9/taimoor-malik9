@@ -1,7 +1,13 @@
+<!-- ANIMATED HEADER WAVE -->
 <div align="center">
-  <h1>Muhammad Taimoor Malik</h1>
-  <p><b>Full-Stack Software Engineer & Systems Architect</b></p>
-  <p>Crafting Distributed Systems • High-Concurrency Engines • Enterprise Logistics</p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00F0FF&height=180&section=header&text=Muhammad%20Taimoor%20Malik&fontSize=38&fontColor=0F172A&animation=twinkling&fontAlignY=38&desc=Full-Stack%20Software%20Engineer%20%7C%20Systems%20Architect&descAlignY=62&descScale=18" width="100%" />
+</div>
+
+<!-- DYNAMIC TYPING SVG -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00F0FF&center=true&vCenter=true&width=700&lines=Full-Stack+%26+Systems+Software+Engineer;MERN+%7C+.NET+Core+%7C+Java+%7C+Python+%7C+C%2B%2B;Architecting+Distributed+Systems+%26+Simulation+Engines;" alt="Typing SVG" />
+  
+  <br/>
 
   <p align="center">
     <img src="https://img.shields.io/badge/STATUS-200_OK-00F0FF?style=for-the-badge&labelColor=0F172A" />
@@ -104,6 +110,16 @@
 
 ---
 
+## 📈 Live Telemetry & Activity
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=taimoor-malik9&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taimoor-malik9&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" width="48%" />
+</div>
+
+---
+
 ## 📫 Connect With Me
 
 <div align="center">
@@ -116,6 +132,7 @@
 
 <br/>
 
+<!-- ANIMATED FOOTER WAVE -->
 <div align="center">
-  <sub><code>STATUS: 200 OK | Engineered with precision by Muhammad Taimoor Malik</code></sub>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00F0FF&height=100&section=footer&text=STATUS:%20200%20OK%20%7C%20Engineered%20by%20Muhammad%20Taimoor%20Malik&fontSize=16&fontColor=0F172A&fontAlignY=65" width="100%" />
 </div>
