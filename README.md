@@ -1,10 +1,3 @@
-آزادانہ (unbroken) Markdown کوڈ بلاک بالکل تیار ہے، مسٹر ملک!
-
-جب کوڈ ایک سنگل کوڈ بلاک میں ہو تو گٹ ہب اسے خود بخود رینڈر (Render) کرتا ہے اور تمام متحرک (Animated) اینیمیشنز، لائو گٹ ہب اسٹیٹس، آئیکنز اور ٹرمینل بلاکس لائیو ہو جاتے ہیں۔
-
-اس پورے بلاک کو کاپی کریں اور اپنی **`README.md`** فائل میں پیسٹ کر دیں۔
-
-```markdown
 <!-- TOP HEADER SECTION -->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00F0FF&center=true&vCenter=true&width=800&lines=Muhammad+Taimoor+Malik;;Full-Stack+Software+Engineer;;Systems+Architect+%7C+MERN+%7C+.NET+%7C+Java;" alt="Typing SVG" />
