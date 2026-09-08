@@ -7,7 +7,7 @@
 
 <table width="100%">
   <tr>
-    <td width="60%" valign="top">
+    <td width="65%" valign="top">
       <h3>⚡ System Diagnostics</h3>
       <p>Software Engineer specialized in building high-concurrency web applications, simulation engines, and distributed backends. Focused on strict architectural integrity, clean memory management, and zero-fluff code execution.</p>
       <ul>
@@ -17,16 +17,14 @@
         <li><b>Infrastructure:</b> Docker, Linux (Pop!_OS), CI/CD Workflows</li>
       </ul>
     </td>
-    <td width="40%" valign="top">
+    <td width="35%" valign="top" align="center">
       <h3>📫 Handshake Protocol</h3>
       <br/>
-      <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="100%"/></a>
+      <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35"/></a>
       <br/><br/>
-      <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-100000?style=for-the-badge&logo=gmail&logoColor=white" width="100%"/></a>
+      <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-100000?style=for-the-badge&logo=gmail&logoColor=white" height="35"/></a>
     </td>
   </tr>
 </table>
 
 ---
-
-### 🏛️ Engineering Matrix
