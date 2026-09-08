@@ -80,7 +80,13 @@
 * **Core Ecosystem:** Connects livestock farms, local mandiyan, individual buyers, and sellers.
 * **Logistics & Transport:** Integrated booking module for livestock transport trucks and delivery routes.
 * **On-Demand Services:** Scheduling system for professional butchers (Qasai) and farm listings.
-* **Tech Stack:** `.NET Core` • `C#` • `SQL Server` • `REST Architecture`
+* **Tech Stack:**
+  <p>
+    <img src="https://img.shields.io/badge/.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+    <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" />
+    <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC292B?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
+    <img src="https://img.shields.io/badge/REST_API-00599C?style=flat-square" />
+  </p>
 
 <br/>
 
@@ -89,7 +95,14 @@
 * **Interactive Canvas:** State-driven React frontend displaying real-time visual simulation queues.
 * **Simulation Engine:** High-performance **FastAPI** server powered by Python's **SimPy** execution engine.
 * **Data Persistence:** MongoDB storage for step-by-step state logging and run history.
-* **Tech Stack:** `React.js` • `FastAPI` • `SimPy` • `MongoDB` • `Tailwind CSS`
+* **Tech Stack:**
+  <p>
+    <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+    <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+    <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+  </p>
 
 <br/>
 
@@ -98,7 +111,12 @@
 * **Authentication & Profiles:** Profile creation with role-based access control for staff and students.
 * **Live Order Queuing:** Menu management, online meal slot reservation, and order status updates.
 * **Operations:** Engineered to eliminate rush-hour overcrowding at university cafes.
-* **Tech Stack:** `Java` • `OOP Architecture` • `MySQL`
+* **Tech Stack:**
+  <p>
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+    <img src="https://img.shields.io/badge/OOP-00599C?style=flat-square" />
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  </p>
 
 <br/>
 
@@ -106,17 +124,12 @@
 > Computer vision pipeline for instant wildlife and animal classification.
 * **Image Ingestion:** Feature extraction pipeline analyzing structural patterns from uploaded images.
 * **Classification Output:** Returns biological metadata and species details instantly.
-* **Tech Stack:** `Python` • `OpenCV` • `Machine Learning`
-
----
-
-## 📈 Live Telemetry & Activity
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=taimoor-malik9&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taimoor-malik9&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" width="48%" />
-</div>
+* **Tech Stack:**
+  <p>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
+    <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+  </p>
 
 ---
 
