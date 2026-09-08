@@ -1,13 +1,17 @@
-<!-- TOP BANNER -->
+<!-- TOP TYPING SVG HEADER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00F0FF&height=200&section=header&text=Muhammad%20Taimoor%20Malik&fontSize=42&fontColor=0F172A&animation=twinkling&fontAlignY=38&desc=Full-Stack%20Software%20Engineer%20%7C%20Systems%20Architect&descAlignY=62&descScale=18" width="100%" />
-</div>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00F0FF&center=true&vCenter=true&width=800&lines=Muhammad+Taimoor+Malik;;Full-Stack+Software+Engineer;;Systems+Architect+%7C+MERN+%7C+.NET+%7C+Java;" alt="Typing SVG" />
+  
+  <p align="center">
+    <b>Crafting Distributed Systems • High-Concurrency Engines • Enterprise Logistics</b>
+  </p>
 
-<!-- COUNTER BADGES -->
-<div align="center">
-  <img src="https://img.shields.io/github/followers/taimoor-malik9?label=FOLLOWERS&style=for-the-badge&color=00F0FF&labelColor=0F172A" />
-  &nbsp;&nbsp;
-  <img src="https://komarev.com/ghpvc/?username=taimoor-malik9&label=PROFILE+VIEWS&style=for-the-badge&color=00F0FF&labelColor=0F172A" />
+  <!-- COUNTER BADGES -->
+  <p align="center">
+    <img src="https://img.shields.io/github/followers/taimoor-malik9?label=FOLLOWERS&style=for-the-badge&color=00F0FF&labelColor=0F172A" />
+    &nbsp;&nbsp;
+    <img src="https://komarev.com/ghpvc/?username=taimoor-malik9&label=PROFILE+VIEWS&style=for-the-badge&color=00F0FF&labelColor=0F172A" />
+  </p>
 </div>
 
 <br/>
