@@ -1,16 +1,15 @@
-<!-- TOP HEADER SECTION -->
+
+<!-- TOP HEADER -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00F0FF&center=true&vCenter=true&width=800&lines=Muhammad+Taimoor+Malik;;Full-Stack+Software+Engineer;;Systems+Architect+%7C+MERN+%7C+.NET+%7C+Java;" alt="Typing SVG" />
-  
-  <p align="center">
-    <b>Crafting Distributed Systems • High-Concurrency Engines • Enterprise Logistics</b>
-  </p>
+  <h1>Muhammad Taimoor Malik</h1>
+  <p><b>Full-Stack Software Engineer & Systems Architect</b></p>
+  <p>Crafting Distributed Systems • High-Concurrency Engines • Enterprise Logistics</p>
 
   <!-- COUNTER BADGES -->
   <p align="center">
-    <img src="https://img.shields.io/github/followers/taimoor-malik9?label=FOLLOWERS&style=for-the-badge&color=00F0FF&labelColor=0F172A" />
+    <img src="https://img.shields.io/badge/FOLLOWERS-2-00F0FF?style=for-the-badge&labelColor=0F172A" />
     &nbsp;&nbsp;
-    <img src="https://komarev.com/ghpvc/?username=taimoor-malik9&label=PROFILE+VIEWS&style=for-the-badge&color=00F0FF&labelColor=0F172A" />
+    <img src="https://img.shields.io/badge/PROFILE_VIEWS-100%2B-00F0FF?style=for-the-badge&labelColor=0F172A" />
   </p>
 </div>
 
@@ -37,12 +36,6 @@ Status      : Building high-impact systems from ground zero...
 ---
 
 ### 📊 Tech Stack & Arsenal
-
-```bash
-┌──(taimoor㉿matrix)-[~/tech-stack]
-└─$ ls -la skills/
-
-```
 
 ---
 
@@ -88,10 +81,6 @@ Status      : Building high-impact systems from ground zero...
 * **Image Ingestion:** Feature extraction pipeline analyzing structural patterns from uploaded images.
 * **Classification Output:** Returns biological metadata and species details instantly.
 * **Tech Stack:** `Python` • `OpenCV` • `Machine Learning`
-
----
-
-### 📈 Live Telemetry & Activity
 
 ---
 
