@@ -10,7 +10,7 @@
   <br/>
 
   <p align="center">
-    <img src="https://img.shields.io/badge/STATUS-200_OK-00F0FF?style=for-the-badge&labelColor=0F172A" />
+    <img src="https://img.shields.io/badge/ROLE-FULL--STACK_ENGINEER-00F0FF?style=for-the-badge&labelColor=0F172A" />
     &nbsp;&nbsp;
     <img src="https://img.shields.io/badge/LOCATION-Rawalpindi%2C_Pakistan_🇵🇰-00F0FF?style=for-the-badge&labelColor=0F172A" />
   </p>
@@ -134,5 +134,5 @@
 
 <!-- ANIMATED FOOTER WAVE -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00F0FF&height=100&section=footer&text=STATUS:%20200%20OK%20%7C%20Engineered%20by%20Muhammad%20Taimoor%20Malik&fontSize=16&fontColor=0F172A&fontAlignY=65" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00F0FF&height=100&section=footer&text=Engineered%20with%20precision%20by%20Muhammad%20Taimoor%20Malik&fontSize=16&fontColor=0F172A&fontAlignY=65" width="100%" />
 </div>
