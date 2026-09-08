@@ -1,14 +1,12 @@
 <div align="center">
-  <img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00F0FF&center=true&vCenter=true&width=800&lines=Muhammad+Taimoor+Malik;;Full-Stack+Software+Engineer;;Systems+Architect+%7C+MERN+%7C+.NET+%7C+Java](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00F0FF&center=true&vCenter=true&width=800&lines=Muhammad+Taimoor+Malik;;Full-Stack+Software+Engineer;;Systems+Architect+%7C+MERN+%7C+.NET+%7C+Java);" alt="Typing SVG" />
-  
-  <p align="center">
-    <b>Crafting Distributed Systems • High-Concurrency Engines • Enterprise Logistics</b>
-  </p>
+  <h1>Muhammad Taimoor Malik</h1>
+  <p><b>Full-Stack Software Engineer & Systems Architect</b></p>
+  <p>Crafting Distributed Systems • High-Concurrency Engines • Enterprise Logistics</p>
 
   <p align="center">
-    <img src="[https://img.shields.io/github/followers/taimoor-malik9?label=FOLLOWERS&style=for-the-badge&color=00F0FF&labelColor=0F172A](https://img.shields.io/github/followers/taimoor-malik9?label=FOLLOWERS&style=for-the-badge&color=00F0FF&labelColor=0F172A)" />
+    <img src="https://img.shields.io/badge/STATUS-200_OK-00F0FF?style=for-the-badge&labelColor=0F172A" />
     &nbsp;&nbsp;
-    <img src="[https://komarev.com/ghpvc/?username=taimoor-malik9&label=PROFILE+VIEWS&style=for-the-badge&color=00F0FF&labelColor=0F172A](https://komarev.com/ghpvc/?username=taimoor-malik9&label=PROFILE+VIEWS&style=for-the-badge&color=00F0FF&labelColor=0F172A)" />
+    <img src="https://img.shields.io/badge/LOCATION-Rawalpindi%2C_Pakistan_🇵🇰-00F0FF?style=for-the-badge&labelColor=0F172A" />
   </p>
 </div>
 
@@ -31,40 +29,40 @@
 
 <b>Languages</b>
 <p>
-  <img src="[https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)" />
-  <img src="[https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)" />
-  <img src="[https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)" />
-  <img src="[https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)" />
-  <img src="[https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)" />
-  <img src="[https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
 <b>Frameworks & Web Platforms</b>
 <p>
-  <img src="[https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)" />
-  <img src="[https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)" />
-  <img src="[https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white](https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)" />
-  <img src="[https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)" />
-  <img src="[https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)" />
-  <img src="[https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)" />
-  <img src="[https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
 </p>
 
 <b>Databases & Cloud Infrastructure</b>
 <p>
-  <img src="[https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)" />
-  <img src="[https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)" />
-  <img src="[https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)" />
-  <img src="[https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)" />
-  <img src="[https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)" />
-  <img src="[https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
 <b>Tooling & Operating Systems</b>
 <p>
-  <img src="[https://img.shields.io/badge/Linux_Pop!_OS-FCC624?style=for-the-badge&logo=linux&logoColor=black](https://img.shields.io/badge/Linux_Pop!_OS-FCC624?style=for-the-badge&logo=linux&logoColor=black)" />
-  <img src="[https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)" />
-  <img src="[https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)" />
+  <img src="https://img.shields.io/badge/Linux_Pop!_OS-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
 
 ---
@@ -106,30 +104,14 @@
 
 ---
 
-## 📈 Live Telemetry & Activity
-
-<div align="center">
-  <img src="[https://github-readme-stats.vercel.app/api?username=taimoor-malik9&show_icons=true&theme=tokyonight&hide_border=true&count_private=true](https://github-readme-stats.vercel.app/api?username=taimoor-malik9&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)" width="48%" />
-  &nbsp;
-  <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=taimoor-malik9&layout=compact&theme=tokyonight&hide_border=true&hide=html,css](https://github-readme-stats.vercel.app/api/top-langs/?username=taimoor-malik9&layout=compact&theme=tokyonight&hide_border=true&hide=html,css)" width="48%" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="[https://github-readme-streak-stats.herokuapp.com/?user=taimoor-malik9&theme=tokyonight&hide_border=true](https://github-readme-streak-stats.herokuapp.com/?user=taimoor-malik9&theme=tokyonight&hide_border=true)" width="100%" />
-</div>
-
----
-
 ## 📫 Connect With Me
 
 <div align="center">
-  <a href="[https://linkedin.com](https://linkedin.com)"><img src="[https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)" /></a>
+  <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   &nbsp;
-  <a href="[https://github.com/taimoor-malik9](https://github.com/taimoor-malik9)"><img src="[https://img.shields.io/badge/GITHUB-100000?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GITHUB-100000?style=for-the-badge&logo=github&logoColor=white)" /></a>
+  <a href="https://github.com/taimoor-malik9"><img src="https://img.shields.io/badge/GITHUB-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
   &nbsp;
-  <a href="mailto:taimuralimalik@gmail.com"><img src="[https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)" /></a>
+  <a href="mailto:taimuralimalik@gmail.com"><img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </div>
 
 <br/>
