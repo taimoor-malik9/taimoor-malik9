@@ -1,47 +1,51 @@
-<!-- HEADER SECTION -->
+<!-- TOP TERMINAL HEADER -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00F0FF&center=true&vCenter=true&width=700&lines=Muhammad+Taimoor+Malik;;Full-Stack+%26+Systems+Engineer;;MERN+%7C+.NET+%7C+Java+%7C+Python+%7C+C%2B%2B;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00F0FF&center=true&vCenter=true&width=800&lines=Muhammad+Taimoor+Malik;;Full-Stack+%26+Systems+Software+Engineer;;MERN+%7C+.NET+Core+%7C+Java+%7C+Python+%7C+C%2B%2B;" alt="Typing SVG" />
 
   <p align="center">
-    <b>Software Engineer & Systems Architect</b><br/>
-    Building distributed platforms, enterprise management portals, and intelligent simulation engines.
+    <b>Crafting Distributed Systems • High-Concurrency Engines • Full-Stack Ecosystems</b>
   </p>
 
-  <!-- TECH BADGES -->
+  <!-- ANIMATED BADGES BAR -->
   <p align="center">
-    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-    <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+    <a href="#"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" /></a>
+    <a href="#"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /></a>
+    <a href="#"><img src="https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" /></a>
+    <a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
+    <a href="#"><img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" /></a>
+    <a href="#"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /></a>
+    <a href="#"><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" /></a>
   </p>
 
-  <!-- SOCIAL / CONTACT BADGES -->
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/taimoor-malik9"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <!-- SOCIAL LINKS -->
+  <p align="center">
+    <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="https://github.com/taimoor-malik9"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+    <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  </p>
 </div>
 
 <br/>
 
 ---
 
-### 👨‍💻 Engineering Core
+### ⚙️ Kernel & System Overview
 
-Software Engineer with a track record of developing end-to-end full-stack systems, mobile-first solutions, and data-driven engines. Experienced in handling multiple backend stacks—ranging from high-performance **.NET** services and **Java** enterprise engines to modern **MERN** web setups and **Python AI** pipelines.
+```typescript
+type Developer = {
+  name: string;
+  role: string;
+  mindset: string;
+  languages: string[];
+  frameworks: string[];
+  architectureFocus: string[];
+};
 
-```javascript
-const developer = {
+const taimoor: Developer = {
   name: "Muhammad Taimoor Malik",
-  role: "Full-Stack Software & Systems Engineer",
-  techStack: {
-    languages: ["C++", "Java", "C# / .NET", "JavaScript (ES6+)", "Python"],
-    webAndCloud: ["React.js", "Next.js", "Node.js", "Express.js", "FastAPI"],
-    databases: ["MongoDB", "SQL", "Supabase"],
-    environment: ["Linux (Pop!_OS)", "Git / GitHub", "Docker", "VS Code"]
-  },
-  architectureFocus: "E-Commerce Ecosystems, Simulation Pipelines & Computer Vision",
-  status: "Architecting software solutions for real-world impact."
+  role: "Full-Stack Software Engineer & Systems Architect",
+  mindset: "Zero fluff, explicit logic, low-overhead design.",
+  languages: ["C++", "Java", "C# (.NET)", "JavaScript (ES6+)", "TypeScript", "Python"],
+  frameworks: ["React.js", "Next.js", "Node.js", "Express", "FastAPI", "ASP.NET Core"],
+  architectureFocus: ["Distributed Systems", "Digital Twins", "Computer Vision", "Enterprise Logistics"]
 };
